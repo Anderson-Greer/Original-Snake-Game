@@ -51,7 +51,7 @@ partNum = 0
 
 score = 0
 
-snake_coord = []
+snake_coord = [] # Array of coordinates for each pixel of the snake saved in tuples of (x, y)
 coordindex = 0
 
 BLUE = (0, 0, 255)
